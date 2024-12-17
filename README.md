@@ -30,6 +30,7 @@ Tutorial to download aiohttp, pillow: After python is installed, run command pro
 
 pip install aiohttp
 pip install pillow
+
 No administrator rights is needed for installation.
 ------------------------------------------------------------------------------------------------------------------
 
