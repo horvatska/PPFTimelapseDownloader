@@ -8,7 +8,7 @@ You will also need additional dependencies like: aiohttp, pillow, ffmpeg and pip
 
 --------------------------------------------------------------------------------------------------------------------------
 
-USAGE:
+# USAGE:
 
 Canvas Id: 0 for earth, 1 for moon, 3 for coronavirus, 5 for pixelzone, 6 for pixelcanvas, 7 for 1bit, 8 for top 10, 10 for 2bit and 11 for minimap.
 
@@ -30,8 +30,7 @@ Tutorial to download aiohttp, pillow: After python is installed, run command pro
 
 pip install aiohttp
 pip install pillow
-
-No administrator Rights is needed for installation.
+No administrator rights is needed for installation.
 ------------------------------------------------------------------------------------------------------------------
 
 Program made by bedex (devonlarrattsigma on discord)
