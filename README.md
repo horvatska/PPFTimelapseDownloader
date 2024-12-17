@@ -1,3 +1,5 @@
+#PPF Timelapse Downloader
+
 IMPORTANT!!!
 
 Before using this program, PYTHON MUST be installed on the computer.
