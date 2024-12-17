@@ -6,6 +6,8 @@ Before using this program, PYTHON MUST be installed on the computer.
 
 You will also need additional dependencies like: aiohttp, pillow, ffmpeg and pip (pip is already automatically installed with python)
 
+Also do not panic if the program doesn't respond, it is working the timelapse in the background
+
 --------------------------------------------------------------------------------------------------------------------------
 
 # USAGE:
